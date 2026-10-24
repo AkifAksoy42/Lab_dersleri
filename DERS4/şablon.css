@@ -1,0 +1,36 @@
+#sayfa1{
+    color: blueviolet;
+    font-size: 50px;
+}
+p{
+    color: chartreuse;
+    font-size: 20px;
+}
+#deneme{
+    color: blue;
+    font-size: 25px;
+}
+#deneme2{
+    color: fuchsia;
+    font-size: 25px;
+}
+#deneme3{
+    color: gold;
+    font-size: 15px;
+}
+div.şablon{
+    text-align: center;
+}
+body{
+    background-color: cadetblue;
+}
+#sayfa3{
+    /* yazının altına,üstüne,üzerine çizgi çekme */
+    text-decoration-line: underline;
+}
+#sayfa31{
+    text-decoration-line: line-through;
+}
+#sayfa312{
+    text-decoration-line: overline;
+}
